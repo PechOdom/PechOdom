@@ -1,2 +1,0 @@
-# PechOdom
-INTJ
